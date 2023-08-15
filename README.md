@@ -1,4 +1,4 @@
-  ### Hello World!  <img src="https://github.com/sciencepal/sciencepal/blob/master/assets/Hi.gif" width="29px">
+  ### Hello World!  <img src="https://github.com/KimmyKx/KimmyKx/blob/main/Assets/Hi.gif" width="29px">
   ![](https://komarev.com/ghpvc/?username=kimmykx&label=Profile%20Visits&color=blue&style=for-the-badge)
   
   <!--- 🔭 I’m currently on University in Taiwan-->
