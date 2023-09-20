@@ -1,7 +1,7 @@
   ### Hello World!  <img src="https://github.com/KimmyKx/KimmyKx/blob/main/Assets/Hi.gif" width="29px">
   ![](https://komarev.com/ghpvc/?username=kimmykx&label=Profile%20Visits&color=blue&style=for-the-badge)
   
-  - 🔭 I’m currently studying on University in Taiwan
+  - 🔭 I’m currently studying at a University in Taiwan
   - 🌱 I’m currently learning Game Development with Unity
   - 💬 Ask me about [Chess](https://www.chess.com/member/kimmykx) and Anime
   - ⚡ Fun fact: I'm twin
