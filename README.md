@@ -17,7 +17,8 @@
   <img src="https://img.shields.io/badge/-JavaScript-000000?style=flat&amp;logo=javascript" alt="JavaScript">
   <img src="https://img.shields.io/badge/-TypeScript-000000?style=flat&amp;logo=typescript&amp;logoColor=007ACC" alt="TypeScript">
   <img src="https://img.shields.io/badge/-SQL-000000?style=flat&amp;logo=MySQL" alt="SQL">
-  <img src="https://img.shields.io/badge/-CSHARP-000000?style=flat&amp;logo=csharp" alt="CS">
+  <img src="https://img.shields.io/badge/-%2ENET-000000?style=flat&amp;logo=dotnet" alt="CS">
+  <img src="https://img.shields.io/badge/-Unity-000000?style=flat&amp;logo=unity" alt="CS">
   <img src="https://img.shields.io/badge/-Git-000000?style=flat&amp;logo=git&amp;logoColor=F05032" alt="Git">
   <img src="https://img.shields.io/badge/-GitHub-000000?style=flat&amp;logo=github&amp;logoColor=FFFFFF" alt="GitHub">
   <img src="https://img.shields.io/badge/-jQuery-000000?style=flat&amp;logo=jQuery&amp;logoColor=0769AD" alt="jQuery">
