@@ -29,7 +29,7 @@
 </p>
 
 
-  [![Stats](https://github-readme-stats.vercel.app/api?username=kimmykx&show_icons=true&theme=radical)](https://github-readme-stats.vercel.app/api?username=kimmykx&show_icons=true&theme=radical)&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
+![](https://denvercoder1-github-readme-stats.vercel.app/api/?username=KimmyKx&show_icons=true&count_private=true&theme=light&hide_border=true)
   
 ![](https://github-trophies.vercel.app/?username=KimmyKx)
   
