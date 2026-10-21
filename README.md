@@ -4,7 +4,6 @@
   - 🔭 I’m currently studying at a University in Taiwan
   - 🌱 I’m currently learning Game Development with Unity
   - 💬 Ask me about [Chess](https://www.chess.com/member/kimmykx) and Anime
-  - ⚡ Fun fact: I'm twin
   
   <!--#### 📫 How to reach me:
   
